@@ -1,0 +1,49 @@
+"ThirdPartyMaps"
+{
+    "1"
+    {
+        "mapname" "伦理问题"
+        "mapcode" "qe_1_cliche"
+    }
+    "2"
+    {
+        "mapname" "伦理问题2: 阿尔法测试"
+        "mapcode" "qe2_ep1"
+    }
+    "3"
+    {
+        "mapname" "冬日低语"
+        "mapcode" "wow_map1"
+    }
+    "4"
+    {
+        "mapname" "阴暗森林加强版"
+        "mapcode" "dw_woods"
+    }
+    "5"
+    {
+        "mapname" "血腥煤矿2"
+        "mapcode" "l4d_coaldblood01"
+    }
+    "6"
+    {
+        "mapname" "血腥荒野"
+        "mapcode" "l4d_tbm_1"
+    }
+    "7"
+    {
+        "mapname" "幽闭恐惧症"
+        "mapcode" "claustrophobia1"
+    }
+    "8"
+    {
+        "mapname" "灰怆2"
+        "mapcode" "map1"
+    }
+    "9"
+    {
+        "mapname" "亡灵区"
+        "mapcode" "uz_crash"
+    }
+}
+

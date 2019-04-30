@@ -1,0 +1,51 @@
+L 04/27/2019 - 22:12:13: SourceMod error session started
+L 04/27/2019 - 22:12:13: Info (map "c2m1_highway") (file "errors_20190427.log")
+L 04/27/2019 - 22:12:13: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/27/2019 - 22:19:11: SourceMod error session started
+L 04/27/2019 - 22:19:11: Info (map "c2m1_highway") (file "errors_20190427.log")
+L 04/27/2019 - 22:19:11: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/27/2019 - 22:19:51: SourceMod error session started
+L 04/27/2019 - 22:19:51: Info (map "c2m1_highway") (file "errors_20190427.log")
+L 04/27/2019 - 22:19:51: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/27/2019 - 22:20:53: Error log file session closed.
+L 04/27/2019 - 22:24:52: SourceMod error session started
+L 04/27/2019 - 22:24:52: Info (map "c2m1_highway") (file "errors_20190427.log")
+L 04/27/2019 - 22:24:52: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/27/2019 - 22:25:03: Error log file session closed.
+L 04/27/2019 - 22:26:55: SourceMod error session started
+L 04/27/2019 - 22:26:55: Info (map "c2m1_highway") (file "errors_20190427.log")
+L 04/27/2019 - 22:26:55: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/27/2019 - 22:27:10: SourceMod error session started
+L 04/27/2019 - 22:27:10: Info (map "c2m1_highway") (file "errors_20190427.log")
+L 04/27/2019 - 22:27:10: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/27/2019 - 22:27:41: SourceMod error session started
+L 04/27/2019 - 22:27:41: Info (map "c2m1_highway") (file "errors_20190427.log")
+L 04/27/2019 - 22:27:41: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/27/2019 - 22:27:52: Error log file session closed.
+L 04/27/2019 - 22:31:22: SourceMod error session started
+L 04/27/2019 - 22:31:22: Info (map "c2m1_highway") (file "errors_20190427.log")
+L 04/27/2019 - 22:31:22: [SM] Exception reported: Client index 0 is invalid
+L 04/27/2019 - 22:31:22: [SM] Blaming: l4d2_msg_system_zh.smx
+L 04/27/2019 - 22:31:22: [SM] Call stack trace:
+L 04/27/2019 - 22:31:22: [SM]   [0] PrintToChat
+L 04/27/2019 - 22:31:22: [SM]   [1] Line 198, D:\BaiduYunDownload\ิดย๋\l4d2_msg_system_zh.sp::playerDeath
+L 04/27/2019 - 22:32:06: SourceMod error session started
+L 04/27/2019 - 22:32:06: Info (map "c2m1_highway") (file "errors_20190427.log")
+L 04/27/2019 - 22:32:06: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/27/2019 - 22:32:17: Error log file session closed.
+L 04/27/2019 - 22:39:01: SourceMod error session started
+L 04/27/2019 - 22:39:01: Info (map "c2m1_highway") (file "errors_20190427.log")
+L 04/27/2019 - 22:39:01: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/27/2019 - 22:40:07: SourceMod error session started
+L 04/27/2019 - 22:40:07: Info (map "c2m1_highway") (file "errors_20190427.log")
+L 04/27/2019 - 22:40:07: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/27/2019 - 22:40:34: SourceMod error session started
+L 04/27/2019 - 22:40:34: Info (map "c2m1_highway") (file "errors_20190427.log")
+L 04/27/2019 - 22:40:34: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/27/2019 - 22:41:43: SourceMod error session started
+L 04/27/2019 - 22:41:43: Info (map "c2m1_highway") (file "errors_20190427.log")
+L 04/27/2019 - 22:41:43: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/27/2019 - 22:41:58: Error log file session closed.
+L 04/27/2019 - 23:03:08: SourceMod error session started
+L 04/27/2019 - 23:03:08: Info (map "c2m1_highway") (file "errors_20190427.log")
+L 04/27/2019 - 23:03:08: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
